@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.venv/
+env/
+*.py[cod]
+
+# C++ / Compilation
+build/
+bin/
+*.so
+*.out
+
+# Project Specific
+*.gguf
+/models/
