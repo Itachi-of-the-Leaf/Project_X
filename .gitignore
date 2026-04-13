@@ -13,3 +13,4 @@ bin/
 # Project Specific
 *.gguf
 /models/
+.venv/
